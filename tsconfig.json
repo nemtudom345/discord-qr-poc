@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "watch": true,
+    "outDir": "dist"
+  }
+}
